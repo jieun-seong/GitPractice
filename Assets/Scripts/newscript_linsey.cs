@@ -8,6 +8,7 @@ public class newscript_linsey : MonoBehaviour
     void Start()
     {
         print("hewo world UwU");
+        print("howdy bros");
     }
 
     // Update is called once per frame
