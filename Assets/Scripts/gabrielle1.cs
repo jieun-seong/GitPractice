@@ -8,8 +8,7 @@ public class somescript : MonoBehaviour
     void Start()
     {
 
-        print("Hello from Jieun2 :)");
-        print("Hi world! from jieun 1 :)");
+        print("Gabrielle1 says hello github");
 
     }
 
